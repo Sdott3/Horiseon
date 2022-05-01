@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* apply styles to <header> / HEADER /NAV BAR STYLES START */
+/*  HEADER */
 
 header {
     padding: 20px;
@@ -34,7 +34,7 @@ header nav {
     font-size: 20px;
 }
 
-header navv ul {
+header nav ul {
     list-style-type: none;
 }
 
