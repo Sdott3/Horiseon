@@ -8,7 +8,8 @@ In this Challenge, a marketing agency has hired me to refactor an existing site 
 * CSS
 
 ## Website
-
+ https://sdott3.github.io/Horiseon/
+ 
 ## Screenshoot
 ![horiseon](https://user-images.githubusercontent.com/93238809/166421501-1d7ccdc4-a1c6-4449-b99f-899277d19847.jpg)
 
